@@ -3766,7 +3766,7 @@
     (uuid ff9fa43e-dda0-4429-820d-fb39457609e4)
     (property "Reference" "R8" (id 0) (at 48.895 147.955 90))
     (property "Value" "100k" (id 1) (at 48.895 150.495 90))
-    (property "Footprint" "" (id 2) (at 48.895 145.415 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (id 2) (at 48.895 145.415 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 48.895 145.415 0)
