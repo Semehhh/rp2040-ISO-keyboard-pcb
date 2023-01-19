@@ -418,14 +418,6 @@
     [
       "d561031f-6f8d-4260-91f8-0a90867179dc",
       "matrix"
-    ],
-    [
-      "e389580b-a0d7-4985-bd58-3785e5cfce34",
-      "matrix_led"
-    ],
-    [
-      "f48dbc37-712f-4e0a-a305-5b7c312463c9",
-      "led_capacitors"
     ]
   ],
   "text_variables": {}
