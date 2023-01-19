@@ -418,6 +418,10 @@
     [
       "d561031f-6f8d-4260-91f8-0a90867179dc",
       "matrix"
+    ],
+    [
+      "1c002a57-1b48-4617-b427-c5805ab2c4a8",
+      "RGB_matrix"
     ]
   ],
   "text_variables": {}
