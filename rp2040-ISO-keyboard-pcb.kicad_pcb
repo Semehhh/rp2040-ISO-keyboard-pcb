@@ -308,7 +308,7 @@
 
   (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" (layer "F.Cu")
     (tedit 5D3C0721) (tstamp 6684de4d-4ec3-40fe-9628-954ab8063201)
-    (at -231.775 -340.51875 180)
+    (at -249.2375 -322.2625 180)
     (descr "USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf")
     (tags "usb usb-c 2.0 pd")
     (property "Sheetfile" "rp2040-ISO-keyboard-pcb.kicad_sch")
@@ -428,11 +428,11 @@
     (fp_line (start 5.999999 -14.78125) (end 5.999999 -9.03125) (layer "Eco2.User") (width 0.05) (tstamp c6b274a1-7079-49a6-8c8b-215676346079))
     (fp_line (start -8.000001 9.03125) (end -8.000001 14.78125) (layer "Eco2.User") (width 0.05) (tstamp dc3fbbb6-4362-4835-ae84-9b6d3d8be987))
     (fp_arc (start -8.000001 9.03125) (mid -7.853554 8.677697) (end -7.500001 8.53125) (layer "Eco2.User") (width 0.05) (tstamp 08bfdea5-f3f2-42e9-a69f-a1ecae698b1d))
-    (fp_arc (start 5.499999 -15.28125) (mid 5.853571 -15.134807) (end 5.999999 -14.78125) (layer "Eco2.User") (width 0.05) (tstamp 3030d9fd-c40f-4dd1-9fae-7183ad3bab47))
+    (fp_arc (start 5.499999 -15.28125) (mid 5.853565 -15.134815) (end 5.999999 -14.78125) (layer "Eco2.User") (width 0.05) (tstamp 3030d9fd-c40f-4dd1-9fae-7183ad3bab47))
     (fp_arc (start -7.500001 15.28125) (mid -7.853554 15.134803) (end -8.000001 14.78125) (layer "Eco2.User") (width 0.05) (tstamp 57459ed1-c9af-4ca0-a5a3-67cb1edfdde0))
     (fp_arc (start 5.999999 -9.03125) (mid 5.853552 -8.677697) (end 5.499999 -8.53125) (layer "Eco2.User") (width 0.05) (tstamp 8d06e07e-ef73-4f3f-82d9-c479ae96b2b5))
     (fp_arc (start 5.999999 14.780039) (mid 5.853553 15.133593) (end 5.499999 15.280039) (layer "Eco2.User") (width 0.05) (tstamp a4f33eac-fc24-4f8a-b77e-408ceee75341))
-    (fp_arc (start 5.499999 8.53125) (mid 5.853571 8.677693) (end 5.999999 9.03125) (layer "Eco2.User") (width 0.05) (tstamp aca40d41-cb54-44cd-91a2-464716c0bcbf))
+    (fp_arc (start 5.499999 8.53125) (mid 5.853565 8.677685) (end 5.999999 9.03125) (layer "Eco2.User") (width 0.05) (tstamp aca40d41-cb54-44cd-91a2-464716c0bcbf))
     (fp_arc (start -7.500001 -8.53125) (mid -7.853554 -8.677697) (end -8.000001 -9.03125) (layer "Eco2.User") (width 0.05) (tstamp eb6d0f1a-1c88-492f-b3d5-ad446f6c0028))
     (fp_arc (start -8.000001 -14.78125) (mid -7.853554 -15.134803) (end -7.500001 -15.28125) (layer "Eco2.User") (width 0.05) (tstamp fc6afc98-48e2-475c-8b7c-cafce16043e0))
     (fp_circle (center 6.985 11.90625) (end 8.985 11.90625) (layer "B.CrtYd") (width 0.12) (fill none) (tstamp 0e5a22a0-8b86-4862-a213-3db4b328aa70))
@@ -503,14 +503,14 @@
     (fp_line (start 15.280039 -5.499999) (end 15.28125 7.500001) (layer "Eco2.User") (width 0.05) (tstamp 79a15576-ca61-4e27-a045-951a8a25f1ba))
     (fp_line (start 9.03125 -5.999999) (end 14.780039 -5.999999) (layer "Eco2.User") (width 0.05) (tstamp cf7d83bc-ed65-425e-9eb9-d39359354be4))
     (fp_line (start -8.53125 -5.499999) (end -8.53125 7.500001) (layer "Eco2.User") (width 0.05) (tstamp d433f568-21d2-4d41-a8b4-253a89185f2d))
-    (fp_arc (start 15.28125 7.500001) (mid 15.134806 7.853571) (end 14.78125 8.000001) (layer "Eco2.User") (width 0.05) (tstamp 087786a1-1f13-4aba-82b4-69dd1ea4cb78))
+    (fp_arc (start 15.28125 7.500001) (mid 15.1348 7.853536) (end 14.78125 8.000001) (layer "Eco2.User") (width 0.05) (tstamp 087786a1-1f13-4aba-82b4-69dd1ea4cb78))
     (fp_arc (start -9.03125 -5.999999) (mid -8.677697 -5.853552) (end -8.53125 -5.499999) (layer "Eco2.User") (width 0.05) (tstamp 09838553-bc03-4242-90b9-8630f0b0e08d))
     (fp_arc (start -14.78125 8.000001) (mid -15.134803 7.853554) (end -15.28125 7.500001) (layer "Eco2.User") (width 0.05) (tstamp 10fe98ce-2258-48c5-9a15-f98ffe2ccbab))
     (fp_arc (start -8.53125 7.500001) (mid -8.677697 7.853554) (end -9.03125 8.000001) (layer "Eco2.User") (width 0.05) (tstamp 17bb76aa-c8af-4796-a982-4be3e6d0d6b5))
     (fp_arc (start -15.28125 -5.499999) (mid -15.134803 -5.853552) (end -14.78125 -5.999999) (layer "Eco2.User") (width 0.05) (tstamp 80b904ca-a139-4851-8aa8-2146b65c58dd))
-    (fp_arc (start 9.03125 8.000001) (mid 8.677729 7.853537) (end 8.53125 7.500001) (layer "Eco2.User") (width 0.05) (tstamp 93e112fc-86be-4678-a1d1-1a78907c8864))
-    (fp_arc (start 8.53125 -5.499999) (mid 8.677693 -5.853571) (end 9.03125 -5.999999) (layer "Eco2.User") (width 0.05) (tstamp b3dd0aea-61cc-4cbc-8e41-0196cd3d3c8b))
-    (fp_arc (start 14.780039 -5.999999) (mid 15.133567 -5.853539) (end 15.280039 -5.499999) (layer "Eco2.User") (width 0.05) (tstamp b795503d-2db2-4915-9a8b-79d8cee463a9))
+    (fp_arc (start 9.03125 8.000001) (mid 8.677693 7.853543) (end 8.53125 7.500001) (layer "Eco2.User") (width 0.05) (tstamp 93e112fc-86be-4678-a1d1-1a78907c8864))
+    (fp_arc (start 8.53125 -5.499999) (mid 8.677685 -5.853565) (end 9.03125 -5.999999) (layer "Eco2.User") (width 0.05) (tstamp b3dd0aea-61cc-4cbc-8e41-0196cd3d3c8b))
+    (fp_arc (start 14.780039 -5.999999) (mid 15.133602 -5.853545) (end 15.280039 -5.499999) (layer "Eco2.User") (width 0.05) (tstamp b795503d-2db2-4915-9a8b-79d8cee463a9))
     (fp_circle (center 11.90625 -6.985) (end 13.90625 -6.985) (layer "B.CrtYd") (width 0.12) (fill none) (tstamp 0dcc5cdd-1f51-449c-87dc-447cc8ed1fd5))
     (fp_circle (center -11.90625 -6.985) (end -9.90625 -6.985) (layer "B.CrtYd") (width 0.12) (fill none) (tstamp 4730c975-0d11-47e8-8615-c129ba40749c))
     (pad "" np_thru_hole circle (at 11.90625 8.255 180) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp 29ea39cf-74f0-4da4-afdc-29f921c97400))
@@ -686,10 +686,10 @@
     (fp_arc (start -15.28125 -5.499999) (mid -15.134803 -5.853552) (end -14.78125 -5.999999) (layer "Eco2.User") (width 0.05) (tstamp 0589c0eb-f3e3-4221-9de7-7ba61b57c6f0))
     (fp_arc (start -14.78125 8.000001) (mid -15.134803 7.853554) (end -15.28125 7.500001) (layer "Eco2.User") (width 0.05) (tstamp 175dc27a-c604-4da7-b8a7-0b7a0a7c7b87))
     (fp_arc (start -8.53125 7.500001) (mid -8.677697 7.853554) (end -9.03125 8.000001) (layer "Eco2.User") (width 0.05) (tstamp 21828532-4f5a-4904-a5c4-1a354dcc8688))
-    (fp_arc (start 14.780039 -5.999999) (mid 15.133567 -5.853539) (end 15.280039 -5.499999) (layer "Eco2.User") (width 0.05) (tstamp 46551780-7d04-4e95-847d-4c96e7697033))
-    (fp_arc (start 9.03125 8.000001) (mid 8.677729 7.853537) (end 8.53125 7.500001) (layer "Eco2.User") (width 0.05) (tstamp 61aaad5b-0321-4710-827b-e9965cb5ec10))
-    (fp_arc (start 8.53125 -5.499999) (mid 8.677693 -5.853571) (end 9.03125 -5.999999) (layer "Eco2.User") (width 0.05) (tstamp 6d774a49-1670-4bfc-b99d-deb3e76557dc))
-    (fp_arc (start 15.28125 7.500001) (mid 15.134806 7.853571) (end 14.78125 8.000001) (layer "Eco2.User") (width 0.05) (tstamp 9fbc6954-32c8-490a-8525-e5dc3ca6b207))
+    (fp_arc (start 14.780039 -5.999999) (mid 15.133602 -5.853545) (end 15.280039 -5.499999) (layer "Eco2.User") (width 0.05) (tstamp 46551780-7d04-4e95-847d-4c96e7697033))
+    (fp_arc (start 9.03125 8.000001) (mid 8.677693 7.853543) (end 8.53125 7.500001) (layer "Eco2.User") (width 0.05) (tstamp 61aaad5b-0321-4710-827b-e9965cb5ec10))
+    (fp_arc (start 8.53125 -5.499999) (mid 8.677685 -5.853565) (end 9.03125 -5.999999) (layer "Eco2.User") (width 0.05) (tstamp 6d774a49-1670-4bfc-b99d-deb3e76557dc))
+    (fp_arc (start 15.28125 7.500001) (mid 15.1348 7.853536) (end 14.78125 8.000001) (layer "Eco2.User") (width 0.05) (tstamp 9fbc6954-32c8-490a-8525-e5dc3ca6b207))
     (fp_arc (start -9.03125 -5.999999) (mid -8.677697 -5.853552) (end -8.53125 -5.499999) (layer "Eco2.User") (width 0.05) (tstamp cfb9bc4a-9962-4fee-9931-6b2d981f0b7a))
     (fp_circle (center 11.90625 -6.985) (end 13.90625 -6.985) (layer "B.CrtYd") (width 0.12) (fill none) (tstamp 26544d10-fc3f-46c8-b51e-c2627c4a4041))
     (fp_circle (center -11.90625 -6.985) (end -9.90625 -6.985) (layer "B.CrtYd") (width 0.12) (fill none) (tstamp ed87aa2c-5e60-4a1e-8cb2-9fc8395e5e53))
@@ -725,7 +725,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 0069abd2-fa6d-461d-9c79-09e6e5940e5f)
-    (at -249.2275 -304.32375)
+    (at -246.0625 -304.32375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix.kicad_sch")
@@ -1465,7 +1465,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 07efa454-f980-45aa-ad5a-568f624c1eed)
-    (at -315.9025 -304.32375)
+    (at -309.5525 -304.32375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix.kicad_sch")
@@ -1932,7 +1932,7 @@
 
   (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206" (layer "B.Cu")
     (tedit 625019FE) (tstamp 0dc50373-6007-4a9b-a46e-d1058cf46f5a)
-    (at -206.365 -317.8175 180)
+    (at -203.2 -317.8175 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "RGB_matrix.kicad_sch")
@@ -2402,7 +2402,7 @@
 
   (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206" (layer "B.Cu")
     (tedit 625019FE) (tstamp 156e74e1-1fde-442e-a077-a956cb6a481b)
-    (at -225.415 -317.8175 180)
+    (at -222.25 -317.8175 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "RGB_matrix.kicad_sch")
@@ -3076,7 +3076,7 @@
 
   (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206" (layer "B.Cu")
     (tedit 625019FE) (tstamp 1def7c8e-c84c-4105-aae5-b18a2ccc5daa)
-    (at -377.815 -317.8175 180)
+    (at -368.29 -317.8175 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "RGB_matrix.kicad_sch")
@@ -3126,7 +3126,7 @@
 
   (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206" (layer "B.Cu")
     (tedit 625019FE) (tstamp 1e32392c-2f8b-4e9c-b4b1-bba853f175f7)
-    (at -358.765 -317.8175 180)
+    (at -349.24 -317.8175 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "RGB_matrix.kicad_sch")
@@ -3226,7 +3226,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "B.Cu")
     (tedit 6298CFE2) (tstamp 20579a79-3175-4ad9-adbd-fd1e1dea4d56)
-    (at -339.725 -312.7375)
+    (at -330.2 -312.7375)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "matrix.kicad_sch")
     (property "Sheetname" "matrix")
@@ -3365,7 +3365,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "B.Cu")
     (tedit 6298CFE2) (tstamp 2092f48c-9912-4efa-947b-7c75e40e5664)
-    (at -377.825 -312.7375)
+    (at -368.3 -312.7375)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "matrix.kicad_sch")
     (property "Sheetname" "matrix")
@@ -3554,7 +3554,7 @@
 
   (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206" (layer "B.Cu")
     (tedit 625019FE) (tstamp 2128f9a0-c731-4fd2-9e2f-dcd220fe40aa)
-    (at -311.14 -317.8175 180)
+    (at -304.79 -317.8175 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "RGB_matrix.kicad_sch")
@@ -5002,7 +5002,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 305b9db6-11e2-4664-8a1e-f2eec5147329)
-    (at -382.5775 -304.32375)
+    (at -373.0525 -304.32375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix.kicad_sch")
@@ -6211,7 +6211,7 @@
 
   (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206" (layer "B.Cu")
     (tedit 625019FE) (tstamp 41c427ac-f1c6-4f18-a4eb-d87c17dacdb8)
-    (at -273.04 -317.8175 180)
+    (at -266.69 -317.8175 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "RGB_matrix.kicad_sch")
@@ -6350,7 +6350,7 @@
 
   (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206" (layer "B.Cu")
     (tedit 625019FE) (tstamp 42285fb5-f73c-4b99-891c-b6fdbf48a029)
-    (at -339.715 -317.8175 180)
+    (at -330.19 -317.8175 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "RGB_matrix.kicad_sch")
@@ -6736,7 +6736,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 4a749ea2-b46e-41f0-8071-623ab79776d6)
-    (at -230.1775 -304.32375)
+    (at -227.0125 -304.32375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix.kicad_sch")
@@ -7009,7 +7009,7 @@
 
   (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206" (layer "B.Cu")
     (tedit 625019FE) (tstamp 4cef3990-99cc-431e-a874-99191a7667ce)
-    (at -292.09 -317.8175 180)
+    (at -285.74 -317.8175 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "RGB_matrix.kicad_sch")
@@ -7240,7 +7240,7 @@
 
   (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206" (layer "B.Cu")
     (tedit 625019FE) (tstamp 4e7200f0-9369-49eb-8a09-062473009d96)
-    (at -143.65875 -217.805 180)
+    (at -144.4525 -217.805 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "RGB_matrix.kicad_sch")
@@ -9713,7 +9713,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 6c9d9cfe-5dc7-4528-94d4-3452acbda372)
-    (at -277.8025 -304.32375)
+    (at -271.4525 -304.32375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix.kicad_sch")
@@ -10180,7 +10180,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "B.Cu")
     (tedit 6298CFE2) (tstamp 72459daa-bfc7-4298-ada5-53901cf23000)
-    (at -273.05 -312.7375)
+    (at -266.7 -312.7375)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "matrix.kicad_sch")
     (property "Sheetname" "matrix")
@@ -13244,7 +13244,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "B.Cu")
     (tedit 6298CFE2) (tstamp 9b09326c-894d-41f6-9ec4-ed06ad22d1db)
-    (at -244.475 -312.7375)
+    (at -241.31 -312.7375)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "matrix.kicad_sch")
     (property "Sheetname" "matrix")
@@ -15450,7 +15450,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp b40ece21-45e8-45d6-8730-434acde6c08e)
-    (at -363.5275 -304.32375)
+    (at -354.0025 -304.32375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix.kicad_sch")
@@ -15873,7 +15873,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "B.Cu")
     (tedit 6298CFE2) (tstamp bd47c7c7-313b-48e1-8330-f16211bdc07a)
-    (at -225.425 -312.7375)
+    (at -222.26 -312.7375)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "matrix.kicad_sch")
     (property "Sheetname" "matrix")
@@ -16705,7 +16705,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp c6186ca5-b65d-4a83-870d-54d09095783e)
-    (at -211.1275 -304.32375)
+    (at -207.9625 -304.32375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix.kicad_sch")
@@ -16977,7 +16977,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "B.Cu")
     (tedit 6298CFE2) (tstamp c899458d-9729-4d62-a53d-e0ed6eeaa4fe)
-    (at -358.775 -312.7375)
+    (at -349.25 -312.7375)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "matrix.kicad_sch")
     (property "Sheetname" "matrix")
@@ -17436,7 +17436,7 @@
 
   (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206" (layer "B.Cu")
     (tedit 625019FE) (tstamp cd1d682d-df10-48a1-9696-52cd407537bf)
-    (at -244.465 -317.8175 180)
+    (at -241.3 -317.8175 180)
     (descr "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
     (tags "LED RGB NeoPixel Mini")
     (property "Sheetfile" "RGB_matrix.kicad_sch")
@@ -18590,7 +18590,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "B.Cu")
     (tedit 6298CFE2) (tstamp e0d3bbff-b7ab-4544-bd3c-2e33df8dfc0c)
-    (at -311.15 -312.7375)
+    (at -304.8 -312.7375)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "matrix.kicad_sch")
     (property "Sheetname" "matrix")
@@ -18879,7 +18879,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "B.Cu")
     (tedit 6298CFE2) (tstamp e4ef5b42-082a-4670-9d75-2b488dacdded)
-    (at -292.1 -312.7375)
+    (at -285.75 -312.7375)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "matrix.kicad_sch")
     (property "Sheetname" "matrix")
@@ -18968,7 +18968,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp e4fab6d8-206c-4326-8daf-e12759c9d65b)
-    (at -296.8525 -304.32375)
+    (at -290.5025 -304.32375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix.kicad_sch")
@@ -19730,7 +19730,7 @@
 
   (footprint "marbastlib-mx:SW_MX_HS_1u" (layer "B.Cu")
     (tedit 6298CFE2) (tstamp f2cc8e01-9cf8-41f4-8cde-524f0043998e)
-    (at -206.375 -312.7375)
+    (at -203.21 -312.7375)
     (descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
     (property "Sheetfile" "matrix.kicad_sch")
     (property "Sheetname" "matrix")
@@ -20403,7 +20403,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp f8658a0a-aaa7-4abf-9867-693bfbd30420)
-    (at -344.4775 -304.32375)
+    (at -334.9525 -304.32375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "matrix.kicad_sch")
