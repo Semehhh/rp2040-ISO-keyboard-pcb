@@ -6356,28 +6356,28 @@
     (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/0e10f52e-2980-4395-8e8f-bf48010c8b12"
       (reference "RGB1") (unit 1) (value "LED_ABGR") (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206")
     )
-    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/c3e33cd8-d973-463b-af34-383c2e5dcb36"
+    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/c30b5f46-c1e5-4446-adcb-a43d60def789"
       (reference "RGB2") (unit 1) (value "LED_ABGR") (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206")
     )
-    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/c30b5f46-c1e5-4446-adcb-a43d60def789"
+    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/e51f8021-4a93-45e2-8bde-747b462d9ae6"
       (reference "RGB3") (unit 1) (value "LED_ABGR") (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206")
     )
-    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/e51f8021-4a93-45e2-8bde-747b462d9ae6"
+    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/953788f3-9740-4979-a6a1-af9dae394964"
       (reference "RGB4") (unit 1) (value "LED_ABGR") (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206")
     )
-    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/953788f3-9740-4979-a6a1-af9dae394964"
+    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/51313d91-7c3f-40d1-b517-c80ecac67bab"
       (reference "RGB5") (unit 1) (value "LED_ABGR") (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206")
     )
-    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/51313d91-7c3f-40d1-b517-c80ecac67bab"
+    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/74eb0cf8-5161-4e5d-a306-468deaf8eca8"
       (reference "RGB6") (unit 1) (value "LED_ABGR") (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206")
     )
-    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/74eb0cf8-5161-4e5d-a306-468deaf8eca8"
+    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/69109946-3fa4-4c8f-aa2a-31a1e495469a"
       (reference "RGB7") (unit 1) (value "LED_ABGR") (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206")
     )
-    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/69109946-3fa4-4c8f-aa2a-31a1e495469a"
+    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/c72146b4-49ca-483e-aa5e-7a4c610530dd"
       (reference "RGB8") (unit 1) (value "LED_ABGR") (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206")
     )
-    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/c72146b4-49ca-483e-aa5e-7a4c610530dd"
+    (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/c3e33cd8-d973-463b-af34-383c2e5dcb36"
       (reference "RGB9") (unit 1) (value "LED_ABGR") (footprint "marbastlib-various:MHT151RGBCT-RGB-Reverse-Mount-1206")
     )
     (path "/1c002a57-1b48-4617-b427-c5805ab2c4a8/bcf7124b-4364-459e-bf81-2e9f5353d385"
