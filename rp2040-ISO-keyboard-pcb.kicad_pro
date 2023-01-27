@@ -403,9 +403,6 @@
           "Net-(R11-Pad1)",
           "Net-(R13-Pad2)",
           "Net-(R14-Pad1)",
-          "Net-(R19-Pad1)",
-          "Net-(R20-Pad1)",
-          "Net-(R21-Pad1)",
           "Net-(R22-Pad1)",
           "Net-(R23-Pad1)",
           "Net-(R24-Pad1)",
@@ -425,8 +422,6 @@
           "Net-(R44-Pad1)",
           "Net-(R45-Pad1)",
           "Net-(R5-Pad1)",
-          "Net-(R6-Pad1)",
-          "Net-(R7-Pad1)",
           "Net-(R8-Pad1)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
