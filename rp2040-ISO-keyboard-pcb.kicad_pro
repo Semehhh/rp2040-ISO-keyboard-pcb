@@ -400,9 +400,7 @@
         "name": "CS",
         "nets": [
           "Net-(R1-Pad2)",
-          "Net-(R11-Pad1)",
           "Net-(R13-Pad2)",
-          "Net-(R14-Pad1)",
           "Net-(R22-Pad1)",
           "Net-(R23-Pad1)",
           "Net-(R24-Pad1)",
